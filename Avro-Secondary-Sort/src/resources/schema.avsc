@@ -1,0 +1,11 @@
+{
+     "type": "record",
+     "namespace": "com.example",
+     "name": "SecondarySort",
+     "fields": [
+       { "name": "Id", "type": "int" },
+       { "name": "TimeStamp", "type": "long" },
+	   { "name": "name", "type": "string" },
+	   { "name": "dept", "type": "string" }
+     ]
+} 
